@@ -2,7 +2,7 @@
 
 This repository contains the source code/data for a small collection of early Bob Bishop games for the Apple II.
 
-**BobBishop1.do** is an Apple II DOS 3.3 Disk Image. Download **BobBiship1.do** and open it using an Apple II emulator or transfer the disk image to a physical 5 1/4" floppy disk using a tool like [ADTPro](http://adtpro.com/index.htmlhttp://adtpro.com/index.html).
+**BobBishop1.do** is an Apple II DOS 3.3 Disk Image. [Download **BobBiship1.do**](https://bitbucket.org/michael_sternberg/bobbishop1/downloads) and open it using an Apple II emulator or transfer the disk image to a physical 5 1/4" floppy disk using a tool like [ADTPro](http://adtpro.com/index.htmlhttp://adtpro.com/index.html).
 
 ### What is this repository for? ###
 
