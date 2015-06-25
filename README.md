@@ -8,7 +8,7 @@ This repository contains the source code/data for a small collection of early Bo
 
 * Quick summary
 
-I was interested in seeing some of [Bob Bishop's](http://apple2history.org/spotlight/bobbishop/) early Apple II games that appeared as type-in programs published in computer magazines between 1978 and 1981. However these games couldn't be easily found in the usual archive locations, so I typed the program listings in and am presenting them here.
+I was interested in seeing some of [Bob Bishop's](http://apple2history.org/spotlight/bobbishop/) early Apple II games that appeared as type-in programs published in computer magazines between 1978 and 1981. However as far as I can tell these programs do not exist anywhere on the Internet. So I typed them in and am bundling them here.
 
 * Versions
 
