@@ -14,11 +14,12 @@ I was interested in seeing some of [Bob Bishop's](http://apple2history.org/spotl
 
 Version 1.0: Initial Commit
 
+# Game List #
 ### Rocket Pilot ###
-[Kilobaud Jan 1978](https://archive.org/stream/kilobaudmagazine-1978-01/Kilobaud_1978_January#page/n89/mode/2up)
+[Kilobaud Jan 1978 (pp.90-93)](https://archive.org/stream/kilobaudmagazine-1978-01/Kilobaud_1978_January#page/n89/mode/2up)
 ### Star Wars ###
-[Kilobaud Feb 1978](https://archive.org/stream/kilobaudmagazine-1978-02/Kilobaud_1978_February#page/n51/mode/2up)
+[Kilobaud Feb 1978 (pp.52-56)](https://archive.org/stream/kilobaudmagazine-1978-02/Kilobaud_1978_February#page/n51/mode/2up)
 ### Lit'l Red Bug ###
-[Creative Computing Jan 1981](https://archive.org/stream/creativecomputing-1981-01/Creative_Computing_v07_n01_1981_January)
+[Creative Computing Jan 1981 (pp.130-131)](https://archive.org/stream/creativecomputing-1981-01/Creative_Computing_v07_n01_1981_January)
 ### Galacti-Cube ###
-[Micro Nov 1981](https://archive.org/stream/Micro_NO._42_1981-11_Micro_Ink_US#page/n47/mode/2up)</td>
+[Micro Nov 1981 (pp.47-48)](https://archive.org/stream/Micro_NO._42_1981-11_Micro_Ink_US#page/n47/mode/2up)
