@@ -16,10 +16,21 @@ Version 1.0: Initial Commit
 
 * Game List
 
-Rocket Pilot [Kilobaud Jan 1978] (https://archive.org/stream/kilobaudmagazine-1978-01/Kilobaud_1978_January#page/n89/mode/2up)
-
-Star Wars [Kilobaud Feb 1978](https://archive.org/stream/kilobaudmagazine-1978-02/Kilobaud_1978_February#page/n51/mode/2up)
-
-Lit'l Red Bug [Creative Computing Jan 1981](https://archive.org/stream/creativecomputing-1981-01/Creative_Computing_v07_n01_1981_January)
-
-Galacti-Cube [Micro Nov 1981](https://archive.org/stream/Micro_NO._42_1981-11_Micro_Ink_US#page/n47/mode/2up)
+<table>
+ <tr>
+  <td>Rocket Pilot</td>
+  <td>[Kilobaud Jan 1978](https://archive.org/stream/kilobaudmagazine-1978-01/Kilobaud_1978_January#page/n89/mode/2up)</td>
+ </tr>
+ <tr>
+  <td>Star Wars</td>
+  <td>[Kilobaud Feb 1978](https://archive.org/stream/kilobaudmagazine-1978-02/Kilobaud_1978_February#page/n51/mode/2up)</td>
+ </tr>
+ <tr>
+  <td>Lit'l Red Bug</td>
+  <td>[Creative Computing Jan 1981](https://archive.org/stream/creativecomputing-1981-01/Creative_Computing_v07_n01_1981_January)</td>
+ </tr>
+ <tr>
+  <td>Galacti-Cube</td>
+  <td>[Micro Nov 1981](https://archive.org/stream/Micro_NO._42_1981-11_Micro_Ink_US#page/n47/mode/2up)</td>
+ </tr>
+</table>
